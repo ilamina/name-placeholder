@@ -19,7 +19,7 @@ Educational institutions with higher levels of AI adoption achieve better studen
 - **Geographic Focus**: Global, with emphasis on regions with publicly available datasets.
 - **Educational Levels**: K-12 and higher education.
 - **AI Applications**: Personalized learning, administrative automation, and resource allocation.
-- **Time Frame**: Last five years of data to capture recent trends.
+- **Time Frame**: Past and recent data to capture recent trends.
 
 ## Approach
 1. Conduct a literature review on AI adoption in education.
