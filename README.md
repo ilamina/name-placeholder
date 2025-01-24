@@ -33,7 +33,7 @@ Educational institutions with higher levels of AI adoption achieve better studen
 - **Qualitative Research**: Review case studies and conduct thematic analyses of interviews (amongst students and professors -maybe 5 participants).
 - **Validation**: Cross-reference findings with existing literature to ensure robustness.
 
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/c83ffa17-573b-40eb-bd93-a276acb215d5" />
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/c83ffa17-573b-40eb-bd93-a276acb215d5" />
 
 
 ## Problem Statement
