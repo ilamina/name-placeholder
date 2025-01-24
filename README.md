@@ -33,5 +33,8 @@ Educational institutions with higher levels of AI adoption achieve better studen
 - **Qualitative Research**: Review case studies and conduct thematic analyses of interviews (amongst students and professors -maybe 5 participants).
 - **Validation**: Cross-reference findings with existing literature to ensure robustness.
 
+  <img width="354" alt="image" src="https://github.com/user-attachments/assets/c83ffa17-573b-40eb-bd93-a276acb215d5" />
+
+
 ## Problem Statement
 The adoption of AI tools in education has the potential to transform teaching and learning processes, yet their integration remains inconsistent. Barriers such as lack of funding, training, and infrastructure hinder effective use. Additionally, there is limited understanding of the factors that influence the success of AI tools in educational settings. This research seeks to address these gaps by providing a comprehensive analysis of adoption rates and effectiveness factors.
